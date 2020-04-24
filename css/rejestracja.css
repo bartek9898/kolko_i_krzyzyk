@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020-04-11, 14:56:54
+    Author     : Lenovo
+*/
+
+#container{
+    width: 1000px;
+}
+
+h2{
+    margin-top: 100px;
+    margin-left: 550px;
+    font-family: 'Indie Flower', cursive;
+    color: darkturquoise;
+}
+
+#formrej{
+    
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 580px;
+    margin-right: 109px;
+    border-style: outset; 
+    background:darkcyan;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+    box-shadow: 0 5px 10px 0 grey;
+
+}
+
+#imie{
+    margin-right: 102px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#nazwisko{
+    margin-right: 67px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#email{
+    margin-right: 95px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#haslo{
+    margin-right: 97px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#haslo1{
+    margin-right: 37px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#login{
+    margin-right: 60px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.buto{
+    width: 260px;
+    margin-top: 20px;
+    font-family: 'Indie Flower', cursive;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+}
+
+.in{
+    margin-right: 0px;
+    font-family: 'Indie Flower', cursive;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 2px solid darkcyan;
+    width: 200px;
+}
+
+body{
+    background-image: url('../zdjecia/prism.png');
+    
+    /*Background pattern from Toptal Subtle Patterns */
+}
+
+p{
+    margin-left: 600px;
+    color: red;
+}

@@ -1,0 +1,126 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020-04-12, 14:33:55
+    Author     : Lenovo
+*/
+
+/*główne kontenery*/
+
+body{
+    background-image: url('../zdjecia/prism.png');
+    
+    /*Background pattern from Toptal Subtle Patterns */
+}
+
+#container
+{
+    width: 1500px;
+}
+
+#wroc{
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+    box-shadow: 0 5px 10px 0 grey;
+    width: 200px;
+    font-family: 'Indie Flower', cursive;
+    color: darkcyan;
+    background: yellow;
+}
+
+/*nagłowek */
+
+h2{
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-family: 'Indie Flower', cursive;
+    color: darkturquoise;
+    clear: both;
+}
+
+/*sekcja dodawania komentarzy*/
+
+#dodawanie{
+    float: left;
+    width: 700px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+form{
+    width: 650px;
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+    float: left;
+}
+
+input{
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+    box-shadow: 0 5px 10px 0 grey;
+    width: 100px;
+    font-family: 'Indie Flower', cursive;
+    color: darkcyan;
+    background:azure;
+}
+
+textarea{
+    width: 650px;
+    height: 400px;
+    float: left;
+    margin-right: 100px;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+    box-shadow: 0 5px 10px 0 grey;
+    font-family: 'Indie Flower', cursive;
+    resize: none;
+    background:darkcyan;
+}
+
+
+/*sekcja zestawienia komentarzy*/
+
+#zbior_opini{
+    width: 700px;
+    margin-right: calc;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+    background:darkcyan;
+    box-shadow: 0 5px 10px 0 grey;
+}
+
+h3{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Indie Flower', cursive;
+    color:turquoise;
+}
+
+table {
+    margin-top: 0px;
+    padding: 10px;
+    font-family: 'Indie Flower', cursive;
+    width: 700px;
+    color:black;
+}
+
+td{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+

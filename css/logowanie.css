@@ -1,0 +1,88 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020-04-11, 14:43:05
+    Author     : Lenovo
+*/
+
+body{
+    background-image: url('../zdjecia/prism.png');
+    
+    /*Background pattern from Toptal Subtle Patterns */
+}
+
+
+#container{
+    width: 1000px;
+}
+
+label{
+    font-family: 'Indie Flower', cursive;
+}
+
+#formlog{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 580px;
+    margin-right: 149px;
+    border-style: outset; 
+    background:darkcyan;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+    box-shadow: 0 5px 10px 0 grey;
+}
+
+h2{
+    margin-top: 80px;
+    margin-left: 615px;
+    font-family: 'Indie Flower', cursive;
+    color: darkturquoise;
+}
+
+h1{
+    margin-left: 520px;
+    margin-top: 100px;
+    font-family: 'Indie Flower', cursive;
+    color: darkturquoise;
+}
+
+.but{
+    width: 105px;
+    margin-top: 20px;
+    font-family: 'Indie Flower', cursive;
+    border-radius: 10px;
+    border: 2px solid darkcyan; 
+}
+
+.in{
+    border-radius: 5px;
+    border: 2px solid darkcyan;
+    font-family: 'Indie Flower', cursive;
+    width: 200px;
+}
+
+#login1{
+    margin-right: 65px; 
+}
+
+#login2{
+    margin-right: 61px; 
+}
+
+#haslo1{
+    margin-right: 60px; 
+}
+
+#haslo2{
+    margin-right: 55px; 
+}
+
+p{
+    margin-left: 600px;
+    color: red;
+}

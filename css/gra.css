@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020-04-11, 20:12:09
+    Author     : Lenovo
+*/
+body{
+    background-image: url('../zdjecia/prism.png');
+    
+    /*Background pattern from Toptal Subtle Patterns */
+}
+
+#container{
+    width: 1000px;
+}
+
+#user{
+    font-family: 'Indie Flower', cursive;
+    color: darkturquoise;
+}
+
+h2{
+    margin-top: 50px;
+    font-size: 60px;
+    
+}
+
+#rozgrywka{
+    font-family: 'Indie Flower', cursive;
+    color: darkturquoise;
+    margin-left: 300px;
+    width: 1000px;
+}
+
+
+#essa{
+    font-family: 'Indie Flower', cursive;
+    color: darkturquoise;
+    margin-left: 560px; 
+    font-size: 50px;
+}
+
+button{
+    font-family: 'Indie Flower', cursive;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+    margin-left: 20px;
+    font-size: 60px;
+}
+
+#wyloguj{
+    font-family: 'Indie Flower', cursive;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+}
+
+.zdjecia2{
+    float: left;
+    font-size: 110px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#plansza3{
+   margin-left: 150px;
+}
+
+#plansza4{
+   margin-left: 80px;
+}
+
+#plansza5{
+   margin-left: 0px;
+}
+
+
+#wybor{
+    margin-left: 230px;
+}
+
+input{
+    font-family: 'Indie Flower', cursive;
+    border-radius: 10px;
+    border: 2px solid darkcyan;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
